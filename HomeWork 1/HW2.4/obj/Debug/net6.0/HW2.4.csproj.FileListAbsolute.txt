@@ -1,0 +1,30 @@
+D:\С#\HW2.4\bin\Debug\net6.0\HW2.4.exe
+D:\С#\HW2.4\bin\Debug\net6.0\HW2.4.deps.json
+D:\С#\HW2.4\bin\Debug\net6.0\HW2.4.runtimeconfig.json
+D:\С#\HW2.4\bin\Debug\net6.0\HW2.4.dll
+D:\С#\HW2.4\bin\Debug\net6.0\HW2.4.pdb
+D:\С#\HW2.4\obj\Debug\net6.0\HW2.4.csproj.AssemblyReference.cache
+D:\С#\HW2.4\obj\Debug\net6.0\HW2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\HW2.4\obj\Debug\net6.0\HW2.4.AssemblyInfoInputs.cache
+D:\С#\HW2.4\obj\Debug\net6.0\HW2.4.AssemblyInfo.cs
+D:\С#\HW2.4\obj\Debug\net6.0\HW2.4.csproj.CoreCompileInputs.cache
+D:\С#\HW2.4\obj\Debug\net6.0\HW2.4.dll
+D:\С#\HW2.4\obj\Debug\net6.0\refint\HW2.4.dll
+D:\С#\HW2.4\obj\Debug\net6.0\HW2.4.pdb
+D:\С#\HW2.4\obj\Debug\net6.0\HW2.4.genruntimeconfig.cache
+D:\С#\HW2.4\obj\Debug\net6.0\ref\HW2.4.dll
+D:\С#\HomeWork 1\HW2.4\bin\Debug\net6.0\HW2.4.exe
+D:\С#\HomeWork 1\HW2.4\bin\Debug\net6.0\HW2.4.deps.json
+D:\С#\HomeWork 1\HW2.4\bin\Debug\net6.0\HW2.4.runtimeconfig.json
+D:\С#\HomeWork 1\HW2.4\bin\Debug\net6.0\HW2.4.dll
+D:\С#\HomeWork 1\HW2.4\bin\Debug\net6.0\HW2.4.pdb
+D:\С#\HomeWork 1\HW2.4\obj\Debug\net6.0\HW2.4.csproj.AssemblyReference.cache
+D:\С#\HomeWork 1\HW2.4\obj\Debug\net6.0\HW2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\HomeWork 1\HW2.4\obj\Debug\net6.0\HW2.4.AssemblyInfoInputs.cache
+D:\С#\HomeWork 1\HW2.4\obj\Debug\net6.0\HW2.4.AssemblyInfo.cs
+D:\С#\HomeWork 1\HW2.4\obj\Debug\net6.0\HW2.4.csproj.CoreCompileInputs.cache
+D:\С#\HomeWork 1\HW2.4\obj\Debug\net6.0\HW2.4.dll
+D:\С#\HomeWork 1\HW2.4\obj\Debug\net6.0\refint\HW2.4.dll
+D:\С#\HomeWork 1\HW2.4\obj\Debug\net6.0\HW2.4.pdb
+D:\С#\HomeWork 1\HW2.4\obj\Debug\net6.0\HW2.4.genruntimeconfig.cache
+D:\С#\HomeWork 1\HW2.4\obj\Debug\net6.0\ref\HW2.4.dll
