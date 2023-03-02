@@ -4,23 +4,15 @@
              x:Class="MauiApp1.View.NotesPage">
     
     <VerticalStackLayout Padding="15">
-        
-        <HorizontalStackLayout BackgroundColor="Red">
-            
-            <Label Text="  Notes" TextColor="Black" FontSize="25" BackgroundColor="Yellow"/>
-            
-            <Button Text="Нажми" FontSize="18" BorderWidth="0.5"
-                BackgroundColor="LightPink" HorizontalOptions="End"/>
+
+        <HorizontalStackLayout  Spacing="180">
+
+            <Label Text="  Notes" TextColor="Black" FontSize="25" />
+
+            <Button Text="add" TextColor="Black" FontSize="18" BorderWidth="0" BackgroundColor="White" Clicked="OnButton_Clicked"/>
 
         </HorizontalStackLayout>
 
-        
-        <VerticalStackLayout BackgroundColor="Blue">
-            
-            <Editor Placeholder = "Enter note (1000 symbols)" FontSize="22" AutoSize="TextChanges" MaximumHeightRequest="1000"/>
-
-        </VerticalStackLayout>
-       
     </VerticalStackLayout>
 
 </ContentPage>

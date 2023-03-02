@@ -15,6 +15,9 @@
     <PlatformTarget>arm64</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
+    <MauiXaml Update="View\AdditionalNotePage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="View\CalendarPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
