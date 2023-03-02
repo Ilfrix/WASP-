@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.View.NotesPage">
+    
+    <VerticalStackLayout Padding="15">
+        
+        <HorizontalStackLayout BackgroundColor="Red">
+            
+            <Label Text="  Notes" TextColor="Black" FontSize="25" BackgroundColor="Yellow"/>
+            
+            <Button Text="Нажми" FontSize="18" BorderWidth="0.5"
+                BackgroundColor="LightPink" HorizontalOptions="End"/>
+
+        </HorizontalStackLayout>
+
+        
+        <VerticalStackLayout BackgroundColor="Blue">
+            
+            <Editor Placeholder = "Enter note (1000 symbols)" FontSize="22" AutoSize="TextChanges" MaximumHeightRequest="1000"/>
+
+        </VerticalStackLayout>
+       
+    </VerticalStackLayout>
+
+</ContentPage>

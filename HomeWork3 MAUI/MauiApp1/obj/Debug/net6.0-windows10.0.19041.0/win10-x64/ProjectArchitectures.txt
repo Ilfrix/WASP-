@@ -1,0 +1,1 @@
+D:\C#\HomeWork3 MAUI\MauiApp1\MauiApp1.csproj;x64
