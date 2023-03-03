@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 
 namespace MauiApp1.Model
 {
-    public class BaseClasses
+    public class Note
     {
+        public string TitleNote { get; set; }
 
+        public string TextNote { get; set; }
+
+        public Note()
+        {
+            TitleNote = "wjhvbwjhvjbw";
+            TextNote = "wkjbvwkjvbwejkvbwkjvwebvk";
+        }
     }
 
-    public class Notes
-    {
-        public string note { get; set; }
-
-    }
 }

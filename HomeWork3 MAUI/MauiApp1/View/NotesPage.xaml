@@ -13,6 +13,21 @@
 
         </HorizontalStackLayout>
 
+        <CollectionView x:Name="notesCollectionView" ItemsSource="{Binding notes}">
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout Orientation="Vertical" />
+            </CollectionView.ItemsLayout>
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <VerticalStackLayout>
+                        <Label Text="{Binding TitleNote}"/>
+                        <Label Text="{Binding TextNote}"/>
+                    </VerticalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
     </VerticalStackLayout>
 
 </ContentPage>

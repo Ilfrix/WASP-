@@ -3,14 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiApp1.View.AdditionalNotePage"
              Title="AdditionalNotePage">
-    
-    <VerticalStackLayout Padding="15" >
-        
-        <Editor Placeholder = "Enter note (2000 symbols)" FontSize="22" AutoSize="TextChanges" MaximumHeightRequest="2000"/>
 
-        <Button Text="SAVE" TextColor="Black" FontSize="18" BackgroundColor="LightCoral" 
-                HorizontalOptions="Center" VerticalOptions="Center" BorderWidth="0.5"/>
+    <VerticalStackLayout Padding="15" >
+
+        <Editor x:Name ="AddedTitle" Placeholder = "Title" FontSize="22" AutoSize="TextChanges" MaxLength="30" Text="{Binding Path=TitleNote}"/>
+
+        <Editor x:Name ="AddedNote" Placeholder = "Enter note (500 symbols)" FontSize="22" 
+                AutoSize="TextChanges" MaxLength="500"/>
+
+        <Button x:Name ="SAVEbutton" Text="SAVE" TextColor="Black" FontSize="18" BackgroundColor="LightCoral" 
+                HorizontalOptions="Center" VerticalOptions="Center" BorderWidth="0.5" Clicked="SaveButtonClicked"/>
 
     </VerticalStackLayout>
-    
+
 </ContentPage>
